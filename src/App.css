@@ -1,0 +1,25 @@
+.container{
+  margin-left: 40px;
+}
+form{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+}
+label{
+ display: list-item;
+}
+
+button, input{
+  border: 1px solid aquamarine;
+  font-size: 1rem;
+  outline: none;
+  padding: 8px;
+  margin: 8px;
+  border-radius: 10px;
+  display: list-item;
+}
+
+input:focus-within{
+  border: 3px solid aquamarine;
+}

@@ -1,0 +1,53 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Raswaita Borkar",
+      "designation": "Developer",
+      "department": "IT",
+      "contact": "1234567890"
+    },
+    {
+      "id": "2",
+      "name": "Amit Patil",
+      "designation": "Developer",
+      "department": "Admin",
+      "contact": "4561237890"
+    },
+    {
+      "id": "3",
+      "name": "mohit Patil",
+      "designation": "Graphic Designer",
+      "department": "IT",
+      "contact": "5632894375"
+    },
+    {
+      "id": "4",
+      "name": "Raj Gautam",
+      "designation": "Tester",
+      "department": "IT",
+      "contact": "7986452387"
+    },
+    {
+      "id": "5",
+      "name": "Mohan Singh",
+      "designation": "Developer",
+      "department": "IT",
+      "contact": "9675843512"
+    },
+    {
+      "id": "3cab",
+      "name": "Aryan Kumar",
+      "designation": "Developer",
+      "department": "Admin",
+      "contact": "9856472183"
+    },
+    {
+      "id": "a8d2",
+      "name": "Ankita Singh",
+      "designation": "Game Developer",
+      "department": "IT",
+      "contact": "8763541294"
+    }
+  ]
+}
